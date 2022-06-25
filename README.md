@@ -1,2 +1,2 @@
-# ProyectoFinal2-fg
-Flexbox + Grid
+# ProyectoFinal2
+Aplicando Grid-Flexbox-Responsive
