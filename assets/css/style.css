@@ -29,7 +29,6 @@ body {
     grid-area: header; 
     background-color: rgb(219, 103, 248);
     display: flex;
-    flex-direction: row;
     justify-content: center;
     flex-direction: column;
     align-items: center;
