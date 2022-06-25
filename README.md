@@ -1,2 +1,2 @@
 # ProyectoFinal2
-Aplicando Grid-Flexbox
+Aplicando Flexbox+Grid
